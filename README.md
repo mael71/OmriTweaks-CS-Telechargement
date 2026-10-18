@@ -1,6 +1,6 @@
 # OmriTweaks (version C#)
 
-Optimisation de Windows 10/11 en un clic, adaptée à votre PC — **version bêta**.
+Optimisation de Windows 10/11 en un clic, adaptée à votre PC — **version stable 0.8.2**.
 
 ## Télécharger
 
