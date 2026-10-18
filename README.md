@@ -4,7 +4,7 @@ Optimisation de Windows 10/11 en un clic, adaptée à votre PC — **version bê
 
 ## Télécharger
 
-👉 [**OmriTweaks.exe** (dernière version)](https://github.com/mael71/OmriTweaks-CS-releases/releases/latest/download/OmriTweaks.exe)
+👉 [**OmriTweaks.exe** (dernière version)](https://github.com/MatRai-hexa/OmriTweaks-CS-releases/releases/latest/download/OmriTweaks.exe)
 
 Un seul fichier, rien à installer : double-cliquez dessus. Windows demande les droits administrateur (nécessaires pour modifier les réglages du système).
 
